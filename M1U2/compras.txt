@@ -1,0 +1,5 @@
+avena
+carne
+huevos
+aceite
+verduras
