@@ -1,0 +1,5 @@
+git add .
+git commit
+git push
+git pull
+tener en cuenta el git clone
