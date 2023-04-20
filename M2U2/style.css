@@ -1,0 +1,61 @@
+.Contenedor{background-color: grey;
+display: flex;
+flex-wrap: ;
+flex-direction: row-reverse;
+align-items: center;
+height: 300px;
+width: 300px;
+margin: 200px 10px 10px 500px}
+.Rojo{background-color: red; 
+	width: 100px;
+	height: 100px;}
+.Azul{background-color: blue;
+	width: 100px;
+	height: 100px;}
+.Verde{background-color: green;
+	width: 100px;
+	height: 100px;}
+
+
+
+
+
+
+	.Contenedor_dos{background-color: grey;
+display: flex;
+flex-wrap: ;
+height: 100px;
+width: 99%;
+margin: 200px 10px 10px 5px;
+justify-content: space-between}
+.Rojo_dos{background-color: red; 
+	width: 100px;
+	height: 100px;}
+.Azul_dos{background-color: blue;
+	width: 100px;
+	height: 100px;}
+.Verde_dos{background-color: green;
+	width: 100px;
+	height: 100px;}
+
+
+
+
+
+
+	.Contenedor_tres{background-color: grey;
+display: flex;
+flex-direction: column;
+flex-wrap: wrap-reverse;
+height: 300px;
+width: 300px;
+margin: 200px 10px 10px 500px}
+.Rojo_tres{background-color: red; 
+	width: 100px;
+	height: 100px;}
+.Azul_tres{background-color: blue;
+	width: 100px;
+	height: 100px;}
+.Verde_tres{background-color: green;
+	width: 100px;
+	height: 100px;}
